@@ -98,7 +98,6 @@ I build **scalable backends**, **real-time apps**, and **AI-powered workflows**.
 ## 🎓 Education
 
 **B.S. Computer Science** — Zarqa University *(2021 – 2024)*
-GPA: 76.1%
 
 ---
 

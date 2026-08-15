@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `< Software Developer />` · `{ Backend · AI · Automation }`
+### `< Software Engineer />` · `{ Backend · AI · Automation }`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YazanMohammad&label=Profile+Views&color=0891b2&style=flat-square)](https://github.com/YazanMohammad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yazanmoh-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yazanmoh)
